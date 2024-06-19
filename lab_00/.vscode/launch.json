@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/user/Algo/lab_00",
+      "program": "/Users/user/Algo/lab_00/build/Debug/outDebug"
+    }
+  ]
+}
